@@ -1,0 +1,1 @@
+This directory contains all projects relating to user personal data.
